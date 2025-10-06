@@ -1,0 +1,102 @@
+{
+  "P001": {
+    "name": "Alice Johnson",
+    "city": "New York",
+    "age": 34,
+    "gender": "Female",
+    "height": 1.65,
+    "weight": 68,
+    "bmi": 24.98,
+    "verdict": "Normal"
+  },
+  "P002": {
+    "name": "Mark Smith",
+    "city": "Los Angeles",
+    "age": 45,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 95,
+    "bmi": 31.02,
+    "verdict": "Obese"
+  },
+  "P003": {
+    "name": "Sophie Lee",
+    "city": "Chicago",
+    "age": 29,
+    "gender": "Female",
+    "height": 1.60,
+    "weight": 48,
+    "bmi": 18.75,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "name": "Daniel Wong",
+    "city": "San Francisco",
+    "age": 39,
+    "gender": "Male",
+    "height": 1.80,
+    "weight": 58,
+    "bmi": 17.90,
+    "verdict": "Underweight"
+  },
+  "P005": {
+    "name": "Emma Davis",
+    "city": "Seattle",
+    "age": 52,
+    "gender": "Female",
+    "height": 1.70,
+    "weight": 82,
+    "bmi": 28.37,
+    "verdict": "Overweight"
+  },
+  "P006": {
+    "name": "Liam Brown",
+    "city": "Austin",
+    "age": 23,
+    "gender": "Male",
+    "height": 1.82,
+    "weight": 76,
+    "bmi": 22.94,
+    "verdict": "Normal"
+  },
+  "P007": {
+    "name": "Noah Martinez",
+    "city": "Miami",
+    "age": 31,
+    "gender": "Male",
+    "height": 1.78,
+    "weight": 110,
+    "bmi": 34.72,
+    "verdict": "Obese"
+  },
+  "P008": {
+    "name": "Olivia Wilson",
+    "city": "Denver",
+    "age": 27,
+    "gender": "Female",
+    "height": 1.68,
+    "weight": 60,
+    "bmi": 21.26,
+    "verdict": "Normal"
+  },
+  "P009": {
+    "name": "James Clark",
+    "city": "Boston",
+    "age": 50,
+    "gender": "Male",
+    "height": 1.73,
+    "weight": 70,
+    "bmi": 23.39,
+    "verdict": "Normal"
+  },
+  "P010": {
+    "name": "Mia Patel",
+    "city": "Philadelphia",
+    "age": 36,
+    "gender": "Female",
+    "height": 1.55,
+    "weight": 40,
+    "bmi": 16.64,
+    "verdict": "Underweight"
+  }
+}
