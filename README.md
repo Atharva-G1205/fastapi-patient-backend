@@ -66,9 +66,8 @@ Linux / macOS
   ```
   uvicorn patient-api.main:app --reload --port 8000
   ```
-- Run the prediction service script or app:
-  - If `predict-insurance/app.py` is a script: `python predict-insurance/app.py`
-  - If it is an ASGI app: `uvicorn predict-insurance.app:app --reload --port 8001`
+- Run the prediction service app:
+  - `uvicorn predict-insurance.app:app --reload --port 8001`
 
 Adjust commands above depending on the actual entrypoints in each folder.
 
