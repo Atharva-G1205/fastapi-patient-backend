@@ -68,18 +68,3 @@ Linux / macOS
   ```
 - Run the prediction service app:
   - `uvicorn predict-insurance.app:app --reload --port 8001`
-
-Adjust commands above depending on the actual entrypoints in each folder.
-
-## Notes and recommendations
-- The model artifact `predict-insurance/model/model.pkl` is a binary and can be large. Consider:
-  - Adding it to `.gitignore` and storing it elsewhere.
-  - Using Git LFS if you need it in the repo.
-- Review and pin versions in `requirements.txt` before publishing.
-- Add a repository-level `.gitignore` to exclude `venv/`, `*.pyc`, `__pycache__/`, `.vscode/`, and model binaries.
-
-## Contact / next steps
-- If you want, I can:
-  - Produce a repository-level `.gitignore`.
-  - Add a cross-platform venv creation script that accepts requirements file and venv name.
-  - Create per-service README files with endpoint documentation and example requests.
