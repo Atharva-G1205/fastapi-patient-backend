@@ -2,6 +2,8 @@
 
 Brief workspace-level README describing folders and purpose.
 
+Note - both backend applications are independent of each other
+
 ## Overview
 This repository contains two related projects:
 - `patient-api` — a FastAPI-based backend serving patient-related functionality.
